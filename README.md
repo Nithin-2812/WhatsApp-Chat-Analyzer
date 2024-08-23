@@ -6,7 +6,7 @@ WhatsApp Chat Analyzer is a web application designed to analyze and visualize Wh
 ## Demo Video
 
 <p align="center">
-  <img src="https://github.com/Nithin-2812/WhatsApp-Chat-Analyzer/blob/main/giphy.gif" alt="animated" />
+  <img src="https://github.com/Nithin-2812/WhatsApp-Chat-Analyzer/blob/main/WhatApp%20chat%20analyzer_gif.gif" alt="animated" />
 </p>
 
 ## Features
