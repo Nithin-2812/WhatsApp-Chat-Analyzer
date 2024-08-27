@@ -1,4 +1,4 @@
-# Movie Recommender System
+# WhatsApp Chat Analyzer
 ### Overview
 WhatsApp Chat Analyzer is a web application designed to analyze and visualize WhatsApp chat data. It allows users to gain insights from their chat history through various statistical metrics, timelines, activity maps, and more. This app provides a user-friendly interface for exploring chat data, making it easier to understand communication patterns, frequently used words, and emoji usage.
 <br/>
